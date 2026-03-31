@@ -4,6 +4,10 @@ Aplicativo Android nativo desenvolvido na Atividade 2 do curso Desenvolvimento M
 
 O projeto simula um fluxo de delivery com autenticação, listagem de produtos, carrinho, favoritos, pedidos e gerenciamento de usuários/produtos.
 
+## Objetivo da atividade
+
+- Melhoria do layout da feature de Favoritos (Favorite).
+
 ## Funcionalidades
 
 - Login de usuário com token JWT.
